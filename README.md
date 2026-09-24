@@ -1,6 +1,6 @@
-# 📎 **Rekai (Reverse kai)**
+# 📎 **Ghost Reverse (GR)**
 
-**ReKai** is a small malware made in Go with the purpose of gaining access to a Windows machine remotely through reverse shell.
+**GhostReverse** is a small malware made in Go with the purpose of gaining access to a Windows machine remotely through reverse shell.
 This payload allows pentesters to experiment over TCP connections and can be useful for those who are learning about reverse engineering and malware analysis.
 
 The payload does NOT include any obfuscation attemp or any other syscall than TCP conection. It is a ethical purpose working. However, this payload
