@@ -153,7 +153,7 @@ Tested on Windows 10 / 11
 
 ![httpx Next Hackers Generation](./httpx_next_hackers_gen.png)
 
-join our cybersecurity discord community:
+join httpx offensive security - the next hackers generation:
 [https://discord.gg/PKwfaETBD](https://discord.gg/PKwfaETBD)
 
 ```text
