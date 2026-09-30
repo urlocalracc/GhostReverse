@@ -151,10 +151,10 @@ Tested on Windows 10 / 11
 ```
 ## 🛡️⚔️ Sponsor 
 
-![httpx Next Hackers Generation](./httpx_next_hackers_gen.png)
+![socproject.io - Learn. Defend. Research](./socproject.png)
 
-join httpx offensive security - the next hackers generation:
-[https://discord.gg/PKwfaETBD](https://discord.gg/PKwfaETBD)
+join socproject.io - the next hackers generation:
+[https://discord.gg/BbGdcQPAp](https://discord.gg/BbGdcQPAp)
 
 ```text
 if the dc link is expired, contact me on Gmail : kaijul3le@gmail.com
