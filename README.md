@@ -151,10 +151,10 @@ Tested on Windows 10 / 11
 ```
 ## 🛡️⚔️ Sponsor 
 
-![socproject.io - Learn. Defend. Research](./socproject.png)
+![overall - **O**pen - **V**ulnerability - **E**xploit - **R**esearch](./overall.png)
 
-join socproject.io - the next hackers generation:
-[https://discord.gg/BbGdcQPAp](https://discord.gg/BbGdcQPAp)
+join overall - the next hackers generation:
+[https://discord.gg/dgFY8aa9k](https://discord.gg/dgFY8aa9k)
 
 ```text
 if the dc link is expired, contact me on Gmail : kaijul3le@gmail.com
