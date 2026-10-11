@@ -153,8 +153,8 @@ Tested on Windows 10 / 11
 
 ![overall - **O**pen - **V**ulnerability - **E**xploit - **R**esearch](./over.png)
 
-join overall - Independent Cybersecurity Initiative
-[Overall discord community](https://discord.gg/JstJShmDr)
+join overall - Independent Cybersecurity Initiative in 
+[discord community](https://discord.gg/JstJShmDr)
 
 Also see the the overall official github
 
