@@ -149,12 +149,16 @@ Please do not use this malware to attack systems that you do not have access to.
 Tested on Windows 10 / 11
 
 ```
-## 🛡️⚔️ Sponsor 
+## 🛡️⚔️ S our discord cybersecurity community 
 
-![overall - **O**pen - **V**ulnerability - **E**xploit - **R**esearch](./overall.png)
+![overall - **O**pen - **V**ulnerability - **E**xploit - **R**esearch](./over.png)
 
-join overall - the next hackers generation:
-[https://discord.gg/dgFY8aa9k](https://discord.gg/dgFY8aa9k)
+join overall - Independent Cybersecurity Initiative
+[https://discord.gg/JstJShmDr](https://discord.gg/JstJShmDr)
+
+Also see the the overall official github
+
+[overall](https://github.com/overallproject)
 
 ```text
 if the dc link is expired, contact me on Gmail : kaijul3le@gmail.com
